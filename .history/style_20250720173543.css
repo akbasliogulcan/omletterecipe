@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.omelette img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px 20px;
+}
+
+.simple {
+  background-color: hsl(30, 54%, 90%);
+}
+
+.add {
+  background-color: white;
+  display: block;
+}

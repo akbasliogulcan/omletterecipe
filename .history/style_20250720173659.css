@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.omelette img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 30px;
+  margin: 30px 40px;
+}
+.omelette h1 {
+  text-align: center;
+}
+
+.simple {
+  background-color: hsl(30, 54%, 90%);
+}
+
+.add {
+  background-color: white;
+  display: block;
+}

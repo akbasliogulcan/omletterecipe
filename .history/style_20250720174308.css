@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.omelette img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 30px;
+  margin: 30px 40px;
+}
+.omelette h1 {
+  text-align: left;
+}
+.omelette p {
+  text-align: center;
+}
+
+.preparation {
+  background-color: hsl(30, 54%, 90%);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 40px;
+}
+.preparation h2 {
+  margin-bottom: 20px;
+}
+.preparation span {
+  font-weight: bold;
+}
+.preparation ul {
+  padding: 10px;
+}
+
+.simple {
+  background-color: hsl(30, 54%, 90%);
+}
+
+.add {
+  background-color: white;
+  display: block;
+}
